@@ -14,5 +14,4 @@ namespace :csv_load do
         Hike.create!(row.to_hash)
       end
     end
-  end
-  
+end
