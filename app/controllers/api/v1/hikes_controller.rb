@@ -20,5 +20,6 @@ class Api::V1::HikesController < ApplicationController
             render json: HikeSerializer.new(@hikes), status: 200
         end
     end
-    
+
+ 
 end
