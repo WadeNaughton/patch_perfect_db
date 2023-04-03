@@ -3,8 +3,9 @@ Rails.application.routes.draw do
 
   namespace :api do
     namespace :v1 do
-      resources :hikes, only: [:index]
-
+      resources :hikes, only: [:index, :show]
+      get '/search', to: 'hikes#search'
+    
     end
   end
 end

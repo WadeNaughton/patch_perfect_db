@@ -1,13 +1,13 @@
 name,elevation,prominence,state,location,range,features,latitude,longitude
 Washington,6288,6138,NH,Pinkham's Grant,Presidential Range,"Waterfalls, Cascades, Brooks, Lakes of the Clouds Hut + Lakes, 360 Degree Views, Peak Bagging",44.270278,-71.303611
-Adams,5774,804,NH,"Low and Burbank's Grant, Thompson and Meserves Purchase",Presidential Range,"Rock Scrambles, Mossy Falls, Madison Spring Hut, Ice Caves, 360 degree views on a clear day, Alpine Zone, Star Lake, Peak Bagging",44.320556,-71.291389
+Adams,5774,804,NH, Thompson and Meserves Purchase,Presidential Range,"Rock Scrambles, Mossy Falls, Madison Spring Hut, Ice Caves, 360 degree views on a clear day, Alpine Zone, Star Lake, Peak Bagging",44.320556,-71.291389
 Jefferson,5712,742,NH,Thompson and Meserves Purchase,Presidential Range,"Cascades, Rock Scrambles, Alpine Zone, 360 Degree Views, Peak Bagging",44.304167,-71.316944
 Monroe,5384,254,NH,Thompson and Meserves Purchase,Presidential Range,"Alpine Zone, Waterfalls, Gorge, Peak Bagging, Lakes of the Clouds, Lakes of the Clouds Hut, 360 Degree Views",44.255556,-71.3225
 Madison,5367,466,NH,Thompson,Presidential Range,"Rock Scrambles, Mossy Falls, Madison Spring Hut, Ice Caves, 360 degree views on a clear day, Alpine Zone, Star Lake, Peak Bagging",44.328333,-71.278333
 Lafayette,5260,3320,NH,Lincoln,Franconia Range,"Cascades, Shining Rock, Brooks, Greenleaf Hut, 360 Degree Views, Peak Bagging, Falling Waters Trail Waterfalls",44.160708,-71.644361
 Lincoln,5089,180,NH,Lincoln,Franconia Range,"Cascades, Shining Rock, Brooks, Greenleaf Hut, 360 Degree Views, Peak Bagging, Falling Waters Trail Waterfalls",44.149167,-71.644333
 South Twin,4902,1522,NH,Grafton County,Twin Range,"Little River, Peak Bagging ",44.1875,-71.555333
-Carter Dome,4832,2830,NH,Coos County,Carter-Moriah Range,"Peak Bagging, Carter Notch Hut, Carter Lakes, Nineteen Mile Brook, Carter Notch, Appalachian Trail",44.267306,-71.179
+Carter Dome,4832,2830,NH,Coos County,Carter-Moriah Range,"Peak Bagging, Carter Notch Hut, Carter Lakes, Nineteen Mile Brook, Carter Notch,Appalachian Trail",44.267306,-71.179
 Moosilauke,4802,2933,NH,Benton,Kinsman Range,"Beaver Brook Waterfall, 360 Degree Views, Appalachian Trail, Alpine Zone",44.023492,-71.831308
 Eisenhower,4780,350,NH,Carrol,Presidential Range,"Alpine Zone, Brooks, Gibbs Falls, Crawford Cliff, Peak Bagging, Mispah Spring Hut, 360 Degree Views",44.240667,-71.350333
 North Twin,4760,299,NH,Grafton County,Twin Range,"Little River, Peak Bagging ",44.202333,-71.558333
@@ -24,7 +24,7 @@ South Kinsman,4358,2240,NH,Franconia,Kinsman Range,"Cascades, Rock Scrambles, Pe
 Field,4331,1706,NH,Whitefield,Wiley Range,"Brooks, Ripley Falls, Limited summit views, Peak Bagging",44.196167,-71.433333
 Osceola,4315,2000,NH,Lincoln,Sandwich Range,"Brooks, Cascades, Limited Summit View, Peak Bagging, Greeley Ponds",44.001614,-71.535614
 Flume,4328,408,NH,Lincoln,Franconia Range,"Brooks, Peak Bagging, 360 Degree Views, Flume Ledges, Flume Brook, Alpine Zone",44.108889,-71.627778
-South Hancock,4278,197,NH,Lincoln,Pemigewasset Wilderness,"Peak Bagging,  Hancock Loop Trail, North Fork Brook, Loop hike",44.073333,-71.487222
+South Hancock,4278,197,NH,Lincoln,Pemigewasset Wilderness,"Peak Bagging, Hancock Loop Trail, North Fork Brook, Loop hike",44.073333,-71.487222
 Pierce,4310,235,NH,Carrol,Presidential Range,"Alpine Zone, Brooks, Gibbs Falls, Crawford Cliff, Peak Bagging, Mizpah Spring Hut, 360 Degree Views",44.226,-71.366
 North Kinsman,4293,275,NH,Franconia,Kinsman Range,"Cascades, Rock Scrambles, Peak Bagging, Lonesome Lake Hut, Lonesome Lake, Kinsman Pond, Kinsman Pond Shelter, Appalachian Trail",44.123,-71.736667
 Willey,4285,256,NH,Whitefield,Wiley Range,"Brooks, Ripley Falls, Limited summit views, Peak Bagging",44.183333,-71.416667
@@ -40,7 +40,7 @@ Jackson,4052,331,NH,Carrol,Presidential Range,"Cascades, Rock Scrambles, 360 Deg
 Tom,4052,331,NH,Whitefield,Wiley Range,"Brooks, Ripley Falls, Limited summit views, Peak Bagging",44.210667,-71.446167
 "Wildcat, D Peak",4070,287,NH,Gorham,Carter-Moriah Range,"Peak Bagging, Gondola, Glen Ellis Falls",44.258889,-71.201389
 Moriah,4049,922,NH,Gorham,Carter-Moriah Range,"Mount Surprise, 360°summit views",44.340278,-71.131389
-Passaconway,4043,803,NH,Wonalancet,Sandwich Range," Brook, Limited Summit Views, Lookout spots, Peak Bagging",43.954722,-71.381389
+Passaconway,4043,803,NH,Wonalancet,Sandwich Range,"Brook, Limited Summit Views, Lookout spots, Peak Bagging",43.954722,-71.381389
 Owl’s Head,4025,825,NH,Franconia,Pemigewasset Wilderness,Brooks,44.144444,-71.605
 Galehead,4024,264,NH,Franconia,Twin Range,"North Branch Gale River, Peak Bagging What is Peak Bagging, Galehead Hut, Appalachian Trail",44.185278,-71.573611
 Whiteface,4019,591,NH,Wonalancet,Sandwich Range,"Brook, Limited Summit Views, Lookout spots, Peak Bagging",43.933889,-71.405833

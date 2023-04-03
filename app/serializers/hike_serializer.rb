@@ -1,5 +1,5 @@
 class HikeSerializer 
 
     include JSONAPI::Serializer
-    attributes :name, :elevation, :prominence, :state, :location, :range, :features
+    attributes :id, :name, :elevation, :prominence, :state, :location, :range, :features, :latitude, :longitude
 end
