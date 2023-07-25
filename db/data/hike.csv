@@ -1,6 +1,6 @@
 name,elevation,prominence,state,location,range,features,latitude,longitude
 Washington,6288,6138,NH,Pinkham's Grant,Presidential Range,"Waterfalls, Cascades, Brooks, Lakes of the Clouds Hut + Lakes, 360 Degree Views, Peak Bagging",44.270278,-71.303611
-Adams,5774,804,NH, Thompson and Meserves Purchase,Presidential Range,"Rock Scrambles, Mossy Falls, Madison Spring Hut, Ice Caves, 360 degree views on a clear day, Alpine Zone, Star Lake, Peak Bagging",44.320556,-71.291389
+Adams,5774,804,NH,Thompson and Meserves Purchase,Presidential Range,"Rock Scrambles, Mossy Falls, Madison Spring Hut, Ice Caves, 360 degree views on a clear day, Alpine Zone, Star Lake, Peak Bagging",44.320556,-71.291389
 Jefferson,5712,742,NH,Thompson and Meserves Purchase,Presidential Range,"Cascades, Rock Scrambles, Alpine Zone, 360 Degree Views, Peak Bagging",44.304167,-71.316944
 Monroe,5384,254,NH,Thompson and Meserves Purchase,Presidential Range,"Alpine Zone, Waterfalls, Gorge, Peak Bagging, Lakes of the Clouds, Lakes of the Clouds Hut, 360 Degree Views",44.255556,-71.3225
 Madison,5367,466,NH,Thompson,Presidential Range,"Rock Scrambles, Mossy Falls, Madison Spring Hut, Ice Caves, 360 degree views on a clear day, Alpine Zone, Star Lake, Peak Bagging",44.328333,-71.278333
@@ -38,7 +38,7 @@ Cannon,4100,740,NH,Franconia ,Kinsman Range,"Cannon Mountain Ski Area, Old Man o
 Hale,4055,614,NH,Bethlehem,Twin Range,"Brooks, Cascades, Limited summit views",44.221667,-71.512167
 Jackson,4052,331,NH,Carrol,Presidential Range,"Cascades, Rock Scrambles, 360 Degree Views, Peak Bagging",44.203167,-71.3755
 Tom,4052,331,NH,Whitefield,Wiley Range,"Brooks, Ripley Falls, Limited summit views, Peak Bagging",44.210667,-71.446167
-"Wildcat, D Peak",4070,287,NH,Gorham,Carter-Moriah Range,"Peak Bagging, Gondola, Glen Ellis Falls",44.258889,-71.201389
+Wildcat D Peak,4070,287,NH,Gorham,Carter-Moriah Range,"Peak Bagging, Gondola, Glen Ellis Falls",44.258889,-71.201389
 Moriah,4049,922,NH,Gorham,Carter-Moriah Range,"Mount Surprise, 360°summit views",44.340278,-71.131389
 Passaconway,4043,803,NH,Wonalancet,Sandwich Range,"Brook, Limited Summit Views, Lookout spots, Peak Bagging",43.954722,-71.381389
 Owl’s Head,4025,825,NH,Franconia,Pemigewasset Wilderness,Brooks,44.144444,-71.605

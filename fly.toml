@@ -1,6 +1,6 @@
-# fly.toml file generated for patch-perfect-db on 2023-03-29T12:28:50-04:00
+# fly.toml file generated for patch-perfect-datasource on 2023-04-03T15:27:15-04:00
 
-app = "patch-perfect-db"
+app = "patch-perfect-datasource"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
