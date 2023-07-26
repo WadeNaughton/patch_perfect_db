@@ -7,7 +7,12 @@ class Api::V1::HikesController < ApplicationController
 
     def show 
         @hike = Hike.find(params[:id])
-        render json: HikeSerializer.new(@hike)
+        if !@hikes.any?
+            render json: {error: "Hike not found"}, status: 404
+        else 
+            render json: HikeSerializer.new(@hike)
+        end
+
     end
 
     def search 
