@@ -10,7 +10,7 @@ class Api::V1::HikesController < ApplicationController
         if !@hike.any?
             render json: {error: "Hike not found"}, status: 404
         else 
-            render json: HikeSerializer.new(@hike)
+            render json: HikeSerializer.new(@hike), status: 200
         end
 
     end
